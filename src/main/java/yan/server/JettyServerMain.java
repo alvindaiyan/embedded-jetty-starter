@@ -26,7 +26,6 @@ public class JettyServerMain {
             JettyServer.get(jettyConfig).start();
         } catch (Exception e) {
             e.printStackTrace();
-
         }
 
     }
