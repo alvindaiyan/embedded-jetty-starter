@@ -38,7 +38,7 @@ public static void main(String[] arg) {
     }
 ```
 
-Or you can run ```mvn install``` and run ```java -jar /your/build/file.jar```.
+Or you can run ```mvn install``` or ```./install.sh``` to build the project and run ```java -jar /your/build/file.jar```.
 
 To be noticed, further plan is to allow user to customize Swagger Configuration as well.
 
