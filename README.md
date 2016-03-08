@@ -42,6 +42,8 @@ Or you can run ```mvn install``` and run ```java -jar /your/build/file.jar```.
 
 To be noticed, further plan is to allow user to customize Swagger Configuration as well.
 
+According to above setups, the swagger ui will serve at [http://localhost:8080/v1/api-doc/index.html](http://localhost:8080/v1/api-doc/index.html). And the swagger.json is served at [http://localhost:8080/api-doc/swagger.json](http://localhost:8080/api-doc/swagger.json)
+
 # Libraries used and Version
 
 ```xml
