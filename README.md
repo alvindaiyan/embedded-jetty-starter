@@ -1,4 +1,4 @@
-# Embedded-jetty-starter
+# Embedded-jetty-starter [![Build Status](https://travis-ci.org/alvindaiyan/embedded-jetty-starter.svg?branch=master)](https://travis-ci.org/alvindaiyan/embedded-jetty-starter)
 
 Embedded Jetty Starter(ejs) is a simple starter project using 
 - [Java8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html), 
