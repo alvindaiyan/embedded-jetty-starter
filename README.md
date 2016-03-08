@@ -12,6 +12,8 @@ EJS provides a simple environment to build, test and run a Java-based web server
 To know more about Swagger and Swagger annotation, please go to 
 [swagger annotation documentation](https://github.com/swagger-api/swagger-core/wiki/Annotations-1.5.X).
 
+### This is a Java project. The reason github has marked this as a Js project is because a built Swagger UI project is included. EJS will serve the Swagger UI as static resources.
+
 # How to run
 
 If you run from IDE, simply navigate to JettyServerMain and run. 
