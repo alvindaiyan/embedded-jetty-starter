@@ -9,9 +9,6 @@ import com.yan.jetty.server.JettyServer;
  */
 public class JettyServerMain {
 
-
-
-
     public static void main(String[] arg) {
         JettyConfig jettyConfig = new JettyConfig();
 
