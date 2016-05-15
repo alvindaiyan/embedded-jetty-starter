@@ -20,3 +20,7 @@ hs_err_pid*
 
 # mac os x config file
 .DS_Store
+
+# ignore for ssls
+keystore
+*.csr
